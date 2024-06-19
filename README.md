@@ -1,9 +1,9 @@
 <h2> ¡Hola! Soy Jordan Morales 👋.</h2>
 <a href="https://www.linkedin.com/in/jordan-michael-morales-alarcon/">
-  <img align="left" alt="Jordan Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img style="margin: auto;"alt="Jordan Linkdein" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jrdmorales">
-  <img align="left" alt="Jordan Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img style="margin: auto;" alt="Jordan Github" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br>
