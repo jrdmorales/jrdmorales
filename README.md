@@ -15,7 +15,7 @@
 - 🎓 &nbsp; Estudiando programación continuamente ..
 - 💼 &nbsp; Developer Full-Stack y Automatizacion.
 - 🌱 &nbsp; Entusiasta de la Automatizacion de Procesos y la Inteligencia Artificial.
-- ✍️ &nbsp; Como Hobbie me Gusta ver anime y realizar tattos  ..
+- ✍️ &nbsp; Me gustar ir a festivales, al gym y salir con mis amigos  ..
 - ☕ &nbsp; Creo que una taza de café perfecta puede ser la solución definitiva para cualquier estrés..
 
 - 💼 &nbsp; Portfolio : "En Desarrollo"
