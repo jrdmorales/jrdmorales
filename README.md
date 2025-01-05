@@ -18,7 +18,7 @@
 - ✍️ &nbsp; Me gustar ir a festivales, al gym y salir con mis amigos  ..
 - ☕ &nbsp; Creo que una taza de café perfecta puede ser la solución definitiva para cualquier estrés..
 
-- 💼 &nbsp; Portfolio : "En Desarrollo"
+- 💼 &nbsp; Portfolio : https://porfolio-jordanmorales.netlify.app/
 
   <h4>Lenguaje de programación: </h4>
   <p align="left">
